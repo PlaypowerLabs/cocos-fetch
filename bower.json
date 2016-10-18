@@ -1,5 +1,5 @@
 {
-  "name": "fetch",
+  "name": "cocos-fetch",
   "main": "fetch.js",
   "devDependencies": {
     "es6-promise": "1.0.0"

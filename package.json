@@ -1,6 +1,6 @@
 {
-  "name": "whatwg-fetch",
-  "description": "A window.fetch polyfill.",
+  "name": "cocos-fetch",
+  "description": "A window.fetch polyfill for cocos2d-js",
   "version": "1.0.0",
   "main": "fetch.js",
   "repository": "github/fetch",
